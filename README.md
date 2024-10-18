@@ -1,5 +1,5 @@
-# Imperial Year 3-Notes
-A list of .pdf files with LaTex notes for the following modules:
+# Imperial Year 3 Notes
+A list of .pdf files with LaTex notes for the following modules (for now):
 - Data Processing Systems
 - Intro to Machine Learning
 - Networked Systems
